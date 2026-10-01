@@ -1,0 +1,3 @@
+# Runtime dependencies for app_final.py
+python-telegram-bot>=22.7,<23
+aiosqlite>=0.20,<1
